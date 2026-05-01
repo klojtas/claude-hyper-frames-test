@@ -1,0 +1,13 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Videos
+*.mp4
+
+# Generated HyperFrames artifacts
+video/hf/audio/
+video/hf/index.html
+video/hf/scenes/
+video/hf/final.mp4
